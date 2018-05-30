@@ -1,2 +1,3 @@
 # hello-world
-my first git hub project
+my first project from git hub.
+Thank you git hub.
